@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ================= BASIC META ================= -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Zennal Finance | Quick Personal & Business Loans in Nigeria</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Zennal Finance offers fast, reliable, and affordable personal and business loans in Nigeria. Apply online from Lagos or Lekki and get instant loan approval with trusted microfinance solutions.">
+    <!-- <meta name="keywords" content="Zennal Finance, quick loans Nigeria, personal loans Lagos, business loans Lekki, microfinance Nigeria, fast loan approval, online loan application Nigeria, affordable loans, trusted loan provider Nigeria, payday loans Lagos, short term loans Nigeria, financial inclusion Nigeria, safe loans Nigeria"> -->
+    <meta name="keywords" content="
+Zennal Finance,
+Zennal Finance Nigeria,
+quick loans Nigeria,
+quick loans in Nigeria,
+instant loans Nigeria,
+instant loan app Nigeria,
+personal loans Nigeria,
+personal loans Lagos,
+personal loans in Lagos,
+business loans Nigeria,
+business loans Lekki,
+business loans in Lekki,
+SME loans Nigeria,
+small business loans Nigeria,
+startup loans Nigeria,
+microfinance bank Nigeria,
+microfinance in Nigeria,
+micro loans Nigeria,
+salary loans Nigeria,
+payday loans Nigeria,
+payday loans Lagos,
+short term loans Nigeria,
+short term loans in Nigeria,
+online loan application Nigeria,
+online loans Nigeria,
+loan app Nigeria,
+fast loan approval Nigeria,
+same day loan Nigeria,
+emergency loans Nigeria,
+affordable loans Nigeria,
+low interest loans Nigeria,
+trusted loan provider Nigeria,
+licensed lenders in Nigeria,
+lenders in Nigeria,
+safe loans Nigeria,
+secure loan platform Nigeria,
+digital lending Nigeria,
+fintech loans Nigeria,
+financial services Nigeria,
+financial inclusion Nigeria,
+financial inclusion in Nigeria,
+consumer loans Nigeria,
+working capital loans Nigeria,
+no collateral loans Nigeria,
+collateral free loans Nigeria
+    ">
+    <meta name="robots" content="index, follow">
+
+
+    <!-- ================= BRAND & TRUST ================= -->
+    <meta name="author" content="Zennal Finance">
+    <meta name="publisher" content="Zennal Finance">
+    <meta name="theme-color" content="#022B69">
+
+    <!-- ================= CANONICAL ================= -->
+    <link rel="canonical" href="https://www.zennalfinance.com/">
+
+    <!-- ================= OPEN GRAPH ================= -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Zennal Finance">
+    <meta property="og:title" content="Personal, Business & SME Loans in Nigeria | Zennal Finance">
+    <meta property="og:description" content="Your dependable, reliable and trusted partner for fast and affordable personal, business and SME loans in Nigeria.">
+    <meta property="og:url" content="https://www.zennalfinance.com/">
+    <meta property="og:image" content="https://www.zennalfinance.com/images/zennal2.png">
+
+    <!-- ================= TWITTER ================= -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Personal & Business Loans in Nigeria | Zennal Finance">
+    <meta name="twitter:description" content="Apply for fast, affordable and reliable loans in Nigeria with Zennal Finance.">
+    <meta name="twitter:image" content="https://www.zennalfinance.com/images/zennal2.png">
+
+    <!-- ================= STRUCTURED DATA (FINTECH) ================= -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FinancialService",
+      "name": "Zennal Finance",
+      "url": "https://www.zennalfinance.com",
+      "logo": "https://www.zennalfinance.com/images/zennal2.png",
+      "description": "Zennal Finance is a Nigerian financial services company providing personal, business and SME loans with transparent terms and flexible repayment.",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Nigeria"
+      },
+      "sameAs": [
+        "https://www.zennalfinance.com/about.php",
+        "https://www.zennalfinance.com/contact.php",
+        "https://www.zennalfinance.com/faqs.php"
+      ]
+    }
+    </script>
+
+    <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "vmk738i8xe");
+    </script>
+
+    <!-- ================= PERFORMANCE ================= -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flowbite@1.6.5/dist/flowbite.min.js" defer></script>
+
+    <style>
+        .montserrat2 {
+            font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: normal;
+        }
+    </style>
+</head>
+
+<body class="montserrat2 text-[#333333] text-lg">
+    <div class="p-0 m-0 h-screen bg-white">
+    
+        <!-- fixed -->
+        <?php 
+            include('includes/nav.php');
+        ?>
+
+
+
+        <!-- hero -->
+        <div class="relative w-full max-w-full overflow-hidden px-4 md:px-44 md:pt-32 pb-6 md:pb-32 mt-8 md:mt-8 ">
+            <!-- bg-[url('images/heromap.png')] -->
+            <img class="hidden md:block absolute -top-20 left-0 md:top-8 md:left-[500px] max-w-6xl z-1 opacity-25" src="images/heromap.png" alt="">
+            <div class="space-y-8 z-2">
+                    <div>
+                        <h1 class="w-full  md:max-w-3xl font-bold text-black text-5xl md:text-6xl">Access Personal,</h1> 
+                        <h1 class="w-full  md:max-w-3xl font-bold text-black text-5xl md:text-6xl">Business and SME <span class="text-[#037065]">Loans</span> ...Fast!!</h1>
+                    </div>
+                    <p class="font-normal  md:max-w-3xl  text-lg md:text-lg">Obtain a personal or business loan quickly and effortlessly through Zennal.</p>                           
+            </div>
+
+            <div class="flex items-center space-x-2 md:space-x-6 mt-0 md:mt-4" >
+                <a href="https://app.zennalfinance.com/quick_loan.php" class="text-gray-900 mt-6 bg-[#00DBC5] hover:bg-[#022B69] hover:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 font-normal rounded-lg text-md px-8 py-2.5 text-center inline-flex items-center">
+                    Apply Now
+                </a>
+                <a href="about.php" class="text-white z-12 mt-6 bg-[#022B69] hover:text-[#00DBC5] focus:ring-4 focus:outline-none focus:ring-blue-300 font-normal rounded-lg text-md px-8 py-2.5 text-center inline-flex items-center">
+                    Learn More
+                </a>
+            </div>
+            
+           
+        </div>
+
+        <!-- hero image section -->
+        <!-- <div class=" w-full grid md:grid-cols-3 gap-6 px-4 pb-6 md:px-40 md:pb-24 ">
+            <div class="w-full mx-auto flex-col gap-2 items-center justify-between">
+                <img src="images/heroimage1.jpeg" class="w-full rounded-xl h-[250px] object-cover" alt="">
+                <img src="images/heroimage2.jpeg" class="w-full rounded-xl mt-4 h-[250px] object-cover" alt="">
+            </div>
+            <div class="w-full ">
+                <img src="images/heroimage3.jpeg" class="w-full rounded-xl mx-auto h-full object-cover h-[500px]" alt="">
+            </div>
+            <div class="w-full flex my-auto">
+                <img src="images/heroimage4.jpeg" class="w-full rounded-xl mx-auto object-cover h-[520px]" alt="">
+            </div>
+        </div> -->
+
+         <!-- your financial services  -->
+         <div class="w-full bg-[#022B69] px-4 md:px-40 py-8 md:py-12">
+            <div class="space-y-2">
+                            <h2 class="w-full  md:max-w-4xl font-bold text-white text-3xl md:text-4xl">Zennal, Your Financial Services Provider</h2> 
+                            <h2 class="w-full  md:max-w-4xl font-bold text-[#00DBC5] text-3xl md:text-4xl">Fast, Affordable, Reliable.</h2>    
+            </div>
+            <div class="max-w-7xl mx-auto">
+                <div class="grid md:grid-cols-2 py-8 md:py-12 ">
+                    <div class="md:p-3  bg-[#022B69] md:bg-[#FFFFFF29] w-full  md:rounded-xl">
+                    <img src="images/zennalafford.jpeg" class="w-full rounded-lg md:rounded-2xl" alt="">
+                    </div>
+                    <div class="flex items-center mt-4 md:mt-0 md:ml-12">
+                    <div class="space-y-2 md:space-y-6 text-white">
+                                <h3 class="w-full  md:max-w-5xl font-bold text-white text-3xl md:text-4xl">Personal Loans</h3>
+                                <p>Easily access instant credit through Zennal Personal Loans, designed to align perfectly with your financial needs and cash flow.</p>
+                                <p>Whether you're looking to cover unexpected expenses, fund a significant purchase, or consolidate debt, our personal loans provide a seamless solution. </p>
+                                <p>With competitive rates, flexible repayment options, and a customer-first approach, our personal loans are here to support you every step of the way.</p>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="grid md:grid-cols-2 py-8 md:py-12 ">
+                    
+                    <div class="flex items-center  order-2 mt-4 md:mt-0 md:order-1 ">
+                    <div class=" space-y-2 md:space-y-6 text-white">
+                                <h3 class="w-full  md:max-w-5xl font-bold text-white text-3xl md:text-4xl">Business Loans</h3>
+                                <p>Tailored financial solutions designed specifically for businesses to help you achieve your goals.</p>
+                                <p>Whether you need working capital, funds to expand operations, or purchase new equipment, our business loans are structured to meet your unique business needs. </p>
+                                <p>Flexible repayment plans and competitive interest rates ensure your business can grow without undue financial strain.</p>
+                    </div>
+                    </div>
+
+                    <div class="flex items-center order-1 md:p-3 md:rounded-xl md:order-2 bg-[#022B69] md:bg-[#FFFFFF29]  md:ml-12">
+                    <img src="images/business_loans.jpg" class="w-full rounded-lg md:rounded-2xl" alt="">
+                    <!-- <img src="images/bizloans.jpeg" class="w-full rounded-lg md:rounded-2xl" alt=""> -->
+                    </div>
+                </div>
+
+
+                <div class="grid md:grid-cols-2 py-8 md:py-12 ">
+                    <div class="md:p-3  bg-[#022B69] md:bg-[#FFFFFF29] w-full  md:rounded-xl">
+                    <img src="images/contract_financing.jpeg" class="w-full rounded-lg md:rounded-2xl" alt="">
+                    </div>
+                    <div class="flex items-center mt-4 md:mt-0 md:ml-12">
+                    <div class="space-y-2 md:space-y-6 text-white">
+                                <h3 class="w-full  md:max-w-5xl font-bold text-white text-3xl md:text-4xl">Contract/Local Purchase Financing</h3>
+                                <p>We're here to support your business growth. Access tailored solutions for your working capital needs, including invoice discounting, business expansion, contract financing, and LPO financing.</p>
+                                <p>Our competitive rates and flexible repayment terms ensure that you can meet your obligations and achieve your goals with ease. </p>
+                                <p>Let us help you bring your business plans to life.</p>
+                    </div>
+                    </div>
+                </div>
+
+                
+                <div class="grid md:grid-cols-2 py-8 md:py-12 ">
+                    
+                    <div class="flex items-center  order-2 mt-4 md:mt-0 md:order-1 ">
+                    <div class=" space-y-2 md:space-y-6 text-white">
+                                <h3 class="w-full  md:max-w-5xl font-bold text-white text-3xl md:text-4xl">Asset Financing</h3>
+                                <p>Get financing for the purchase of vehicles, trucks, heart-moving equipment, alternative power solutions etc. </p>
+                                <p>Zennal Asset Finance provide the needed financing for variety of assets based on your choice and need, and allow you pay back conveniently over a period of 12 months. </p>
+                               
+                    </div>
+                    </div>
+
+                    <div class="flex items-center order-1 md:order-2 md:p-3 md:rounded-xl bg-[#022B69] md:bg-[#FFFFFF29]  md:ml-12">
+                    <img src="images/collage_asset_finance.png" class="w-full rounded-lg md:rounded-2xl" alt="">
+                    <!-- <img src="images/asset_financing.jpg" class="w-full rounded-lg md:rounded-2xl" alt=""> -->
+                    </div>
+                </div>
+
+            </div>
+           
+
+        </div>
+
+          <!-- how it works  -->
+          <div class="w-full bg-white text-gray-900 px-4 md:px-40 py-8 md:py-20">
+            <p class="tracking-wide font-normal">HOW IT WORKS</p>
+            <div class="space-y-2">
+                <h2 class="w-full  md:max-w-5xl font-bold text-black text-4xl md:text-5xl">How to apply for Zennal Quick Loans</h2> 
+            </div>
+            <div class="w-full md:max-w-7xl mx-auto mt-8">
+                <div class="grid md:grid-cols-2  gap-6  ">
+                    <div class="p-3  bg-[#DFEBFD] w-full  rounded-xl ">
+                        <img src="images/how_it_works.jpeg" class="w-full rounded-2xl object-cover h-[300px] md:h-[400px]" alt="">
+                    </div>
+                    
+                    <div class=" flex items-center ml-4 ">
+                        <div>
+                            <!-- <div class="flex items-start space-x-6 mt-2  text-gray-900">
+                                        <p class="font-bold text-lg">1.</p>
+                                        <div>
+                                            <h3 class="font-bold text-xl">Create a Profile (One-Time)</h3>
+                                            <p>Provide some basic information to help us understand your needs better.</p>
+                                        </div>
+                            </div> -->
+                            <div class="flex items-start space-x-6  mt-2  text-gray-900">
+                                        <p class="font-bold text-lg">1.</p>
+                                        <div>
+                                            <h3 class="font-bold text-xl">Fill Out the Application Form</h3>
+                                            <p>Complete your application by clicking on the provided link.</p>
+                                        </div>
+                            </div>
+                            <div class="flex items-start space-x-6  mt-2 text-gray-900">
+                                        <p class="font-bold text-lg">2.</p>
+                                        <div>
+                                            <h3 class="font-bold text-xl">Engagement and Application Review</h3>
+                                            <p>Once your application is submitted, we will review it. If approved, you'll receive a notification requesting you to submit necessary documentations and execute the loan offer.</p>
+                                        </div>
+                            </div>
+                            <div class="flex items-start space-x-6 mt-2  text-gray-900">
+                                        <p class="font-bold text-lg">3.</p>
+                                        <div>
+                                            <h3 class="font-bold text-xl">Loan Disbursement</h3>
+                                            <p>After fulfilling all necessary requirements, your loan will be promptly disbursed.</p>
+                                        </div>
+                            </div>
+                            <div class="flex items-start space-x-6 mt-2  text-gray-900">
+                                        <p class="font-bold text-lg">4.</p>
+                                        <div>
+                                            <h3 class="font-bold text-xl">Commence Repayments as Scheduled</h3>
+                                            <p>Enjoy flexible repayment terms. Enhance your creditworthiness by making timely payments according to your repayment schedule.</p>
+                                        </div>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+
+         <!-- our core values  -->
+         <!-- <div class="w-full bg-[#00DBC5] text-gray-900 px-4 md:px-40 py-4 md:py-2">
+          
+            <div class="max-w-7xl mx-auto md:mt-8 ">
+                <div class=" grid grid-cols-12 gap-2 items-center  ">
+                    <div class="p-3 w-full col-span-12 md:col-span-4 space-y-4  items-center  rounded-xl ">
+                    <h2 class="w-full  md:max-w-xl font-bold text-black text-5xl md:text-5xl">Our Core Values</h2> 
+                    <p class="font-extrabold">At the heart of everything we do are the principles that guide our operations and define our relationship with customers, partners, and stakeholders</p>
+                    </div>
+                    
+                    <div class="col-span-12 md:col-span-8 md:px-24 ">
+                            <div class="grid grid-cols-2 md:grid-cols-3 gap-12 ">
+                                <div class="flex items-center">
+                                          <div>
+                                            <img src="images/customer_focus.png" class=" max-w-sm w-[152px]" alt="">
+                                            <p class=" text-center">Customer Focus.</p>
+                                          </div>
+                                </div>
+                                <div class="flex items-center">
+                                            <div>
+                                                <img src="images/empathy.png" class="max-w-sm  w-[120px]"  alt="">
+                                                <p class=" text-center">Empathy.</p>
+                                            </div>
+                                           
+                                </div>
+                                <div class="flex items-center">
+                                           <div>
+                                           <img src="images/speedy_service.png" class="max-w-sm  w-[120px]"  alt="">
+                                           <p class=" text-center">Speedy Service.</p>
+                                           </div>
+                                </div>
+                                <div class="flex items-center">
+                                          <div>
+                                            <img src="images/innovationn.png" class="max-w-sm  w-[120px]"  alt="">
+                                            <p class=" text-center">Innovation.</p>
+                                          </div>
+                               
+                                </div>
+                                <div class="flex items-center">
+                                            <div>
+                                            <img src="images/partnershipp.png" class="max-w-sm  w-[120px]"  alt="">
+                                            <p class=" text-center">Partnership.</p>
+                                            </div>
+                                </div>
+                            </div>
+                         
+                        </div>
+                       
+                    </div>
+                </div>
+        </div> -->
+
+           <!-- our core values  -->
+           <div class="w-full bg-[#00DBC5] text-gray-900 px-4 md:px-20 py-12 md:py-6">
+          
+          <div class="max-w-7xl mx-auto md:mt-8 ">
+              <div class=" grid grid-cols-12 gap-12 items-center  ">
+                  <div class="p-3 w-full col-span-12 md:col-span-4 space-y-4  items-center  rounded-xl ">
+                  <h2 class="w-full  md:max-w-xl font-bold text-black text-4xl md:text-5xl">Our Core Values</h2> 
+                  <p class=" text-xl">At the heart of everything we do are the principles that guide our operations and define our relationship with customers, partners, and stakeholders.</p>
+                  </div>
+                  <!-- <div class="col-span-1">
+
+                  </div> -->
+                  
+                  <div class="col-span-12 md:col-span-8 ">
+                          <div class="grid grid-cols-2 md:grid-cols-5 items-center gap-2 md:gap-4 ">
+                              <div class="flex items-center">
+                                        <div class="py-4 space-y-4">
+                                          <div class="py-2">
+                                           <img src="images/customer_focus.png" class="bg-cover bg-center w-28 h-28" alt="">
+                                          </div>
+                                          <p class="text-lg text-center">Customer Focus.</p>
+                                        </div>
+                              </div>
+                              <div class="flex items-center">
+                                          <div class="py-4 space-y-4">
+                                              <div class="py-2">
+                                              <img src="images/empathy.png" class="bg-cover bg-center w-28 h-28" alt="">
+                                              </div>
+                                              <p class="text-lg text-center">Empathy.</p>
+                                          </div>
+                                         
+                              </div>
+                              <div class="flex items-center">
+                                         <div class="py-4 space-y-4">
+                                          <div class="py-2">
+                                           <img src="images/speedy_service.png" class="bg-cover bg-center w-28 h-28" alt="">
+                                          </div>
+                                          <p class="text-lg text-center">Speedy Service.</p>
+                                         </div>
+                              </div>
+                              <div class="flex items-center">
+                                         <div class="py-4 space-y-4">
+                                          <div class="py-2">
+                                           <img src="images/innovationn.png" class="bg-cover bg-center w-28 h-28" alt="">
+                                          </div>
+                                          <p class="text-lg text-center">Innovation.</p>
+                                         </div>
+                              </div>
+                              <div class="flex items-center">
+                                         <div class="py-4 space-y-4">
+                                          <div class="py-2">
+                                           <img src="images/partnershipp.png" class="bg-cover w-28 h-28" alt="">
+                                          </div>
+                                          <p class="text-lg text-center">Partnership.</p>
+                                         </div>
+                              </div>
+                              <!-- <div class="flex items-center">
+                                        <div class="space-y-2">
+                                          <img src="images/innovationn.png" class="max-w-sm  w-[120px]"  alt="">
+                                          <p class=" text-center">Innovation.</p>
+                                        </div>
+                             
+                              </div> -->
+                              <!-- <div class="flex items-center">
+                                          <div class="space-y-2">
+                                          <img src="images/partnershipp.png" class="max-w-sm  w-[120px]"  alt="">
+                                          <p class=" text-center">Partnership.</p>
+                                          </div>
+                              </div> -->
+                          </div>
+                       
+                  </div>
+                     
+                  </div>
+              </div>
+      </div>
+
+
+           <!-- our partner  -->
+           <!-- <div class="w-full bg-white text-gray-900 px-4 md:px-40 py-8 md:py-20">
+            <p class="tracking-wide font-normal">OUR PARTNERS</p>
+            <div class="max-w-7xl mx-auto mt-8">
+                <div class="grid md:grid-cols-3  gap-12 mt-8  ">
+                    <img src="images/mono.png" class="w-4/5 md:w-full object-cover h-[80px] md:h-[120px] rounded-2xl" alt="">
+                    <img src="images/remita.png" class="w-4/5 md:w-full object-cover h-[80px] md:h-[120px] rounded-2xl" alt="">
+                    <img src="images/paystack.png" class="w-4/5 md:w-full object-cover h-[80px] md:h-[120px] rounded-2xl" alt="">
+                    
+                </div>
+            </div>
+            </div> -->
+
+            <!-- <div class="w-full bg-white text-gray-900  md:px-40 md:pt-2 md:pb-20">
+            <div class="w-full md:max-w-7xl mx-auto p-4 md:p-8 bg-black md:rounded-xl">
+                <div class="grid md:grid-cols-2 items-center  md:gap-8 my-4  ">
+                    <div class="">
+                        <h2 class="w-full  md:max-w-4xl font-bold text-white text-5xl md:text-6xl">A digital service made just for you</h2> 
+                        <p class="text-white mt-4 md:mt-8">Create a profile from your phone or computer and apply for a loan in minutes.</p>
+                      
+                        <a href="https://app.zennalfinance.com/quick_loan.php" class="flex items-center mt-4 md:mt-8 justify-between  w-[200px] text-black bg-[#00DBC5] hover:bg-[#00DBC5] focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-6 md:px-8 py-3 ">
+                            <span>Apply Now</span>
+                            <svg width="17" height="19" viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M16 7.76795C17.3333 8.53775 17.3333 10.4623 16 11.2321L3.25 18.5933C1.91667 19.3631 0.250001 18.4008 0.250001 16.8612L0.250002 2.13878C0.250002 0.599183 1.91667 -0.363067 3.25 0.406733L16 7.76795Z" fill="#007569"/>
+                            </svg>
+                        </a>
+                    </div>
+                    <img src="images/prettylad2.png" class="w-full mt-4 md:mt-0 h-[400px] md:h-[600px] object-cover  rounded-2xl" alt="">
+                </div>
+            </div>
+            </div> -->
+
+       
+    <?php include('includes/footer.php') ?>
